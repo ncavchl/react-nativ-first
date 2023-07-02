@@ -1,2 +1,2 @@
-# react-nativ-first
+# react-native-first
 first - react native 
